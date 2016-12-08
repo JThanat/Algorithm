@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1480049886 source:f:\academic\3rd  year\semester1\algorithm\project\stupid\grader.cpp
+	"user_lib.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1480048256 f:\academic\3rd  year\semester1\algorithm\project\stupid\user_lib.h
+
+1480049572 f:\academic\3rd  year\semester1\algorithm\project\stupid\student.h
+	"user_lib.h"
+
+1481137153 source:f:\academic\3rd  year\semester1\algorithm\project\stupid\student.cpp
+	"student.h"
+	<cstring>
+

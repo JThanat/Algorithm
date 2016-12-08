@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1480048661 source:/dae/Teaching/Algorithm Design/2559-a/project/package/grader.cpp
+	"user_lib.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1480048255 /dae/Teaching/Algorithm Design/2559-a/project/package/user_lib.h
+
+1480049572 /dae/Teaching/Algorithm Design/2559-a/project/package/student.h
+	"user_lib.h"
+
+1480049572 source:/dae/Teaching/Algorithm Design/2559-a/project/package/student.cpp
+	"student.h"
+

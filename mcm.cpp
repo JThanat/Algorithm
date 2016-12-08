@@ -4,7 +4,7 @@ int p[105];
 int mcm[105][105];
 
 int min(int a, int b) {
-    // negative value represets infinity
+    // negative value represents infinity
     if(a < 0) return b;
     else if (b < 0) return a;
     else return a < b ? a : b;
