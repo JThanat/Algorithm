@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../stupid/grader.cpp" />
+		<Unit filename="../stupid/student.cpp" />
+		<Unit filename="../stupid/student.h" />
+		<Unit filename="../stupid/user_lib.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

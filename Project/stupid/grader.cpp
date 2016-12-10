@@ -56,6 +56,7 @@ static void check_encoded_message()
   int i;
   if(L > MAX_EXPANSION * N) {
     printf("Encoded message too long.");
+    printf("MAX_L =%d\n",MAX_EXPANSION);
     exit(0);
   }
   for(i=0; i < L; i++)
