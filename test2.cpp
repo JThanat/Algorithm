@@ -9,7 +9,7 @@ int main() {
     scanf("%d %d",&x,&y);
     srand(y);
     for(int i = 0 ; i < x ; i++) {
-        printf("%d ",100-i);
+        printf("%d ",rand()%255);
     }
 
 
